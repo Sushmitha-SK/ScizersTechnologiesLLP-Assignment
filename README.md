@@ -4,7 +4,7 @@ This project is a React JS app that displays a list of Star Wars characters fetc
 
 ## Live Demo
 
-Check out the live demo of Bug Trace at (http://localhost:3000/).
+Check out the live demo of Bug Trace at (https://scizers-technologies-llp-assignment.vercel.app/).
 
 ## Technologies Used
 
